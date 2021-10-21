@@ -1,6 +1,8 @@
 # CertificateEncryptionTest
 
 Kleine test van het encrypte van een document.
+De test werkt met SHA-256 hashing zoals vaak gebruikt wordt.
+Deze testen moeten het hashen van een file, waarnaar deze op een blockchain kan worden gezet en later geverifieerd kan worden, "testen".
 
 Voor het kunnen controleren van een valide document kan er een hash worden gemaakt van de files die uiteindelijk hetzelfde hoort te zijn.
 Andere voorwaarde zijn:
