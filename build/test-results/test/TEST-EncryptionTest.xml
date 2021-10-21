@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="EncryptionTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-10-21T12:48:59" hostname="DESKTOP-SFHBPF8" time="0.056">
+  <properties/>
+  <testcase name="TestEncryptionSameHashAfterEncryption()" classname="EncryptionTest" time="0.045"/>
+  <testcase name="TestEncryptionSameHashAfterNameChange()" classname="EncryptionTest" time="0.005"/>
+  <testcase name="TestEncryptionDeniedHashAfterEdit()" classname="EncryptionTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
