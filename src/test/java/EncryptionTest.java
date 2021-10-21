@@ -2,11 +2,6 @@ import hasher.GetFileHash;
 import hasher.Hasher;
 import org.junit.jupiter.api.Test;
 
-import java.awt.*;
-import java.nio.charset.StandardCharsets;
-import java.security.MessageDigest;
-import java.security.NoSuchAlgorithmException;
-
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertNotEquals;
 
